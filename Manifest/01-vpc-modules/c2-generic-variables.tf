@@ -6,7 +6,7 @@ variable "aws_region" {
   type = string
 }
 #Environment
-variable "Environment" {
+variable "environment" {
   description = "Environment Variable used as prefix"
   type = string
 }

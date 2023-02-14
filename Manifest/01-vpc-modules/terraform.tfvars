@@ -1,4 +1,4 @@
 #Generic_Variables
 aws_region = "us-east-1"
-Environment = "stag"
+environment = "stag"
 business_division = "HR"
